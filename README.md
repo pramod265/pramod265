@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Pramod
 ===============================================================================================================================
 
-Senior Software Engineer
+Senior Software Engineer at Walmart
 ------------------------
 
-I specialize in backend development and data engineering. Proficient in Python, Django, REST Framework, and cloud technologies such as GCP and AWS. I have successfully transitioned from web application development to data engineering, leading projects that
+I specialize in backend development and data engineering. Proficient in Python, Django, REST Framework, and cloud technologies such as GCP. I have successfully transitioned from web application development to data engineering, leading projects that
 
 have directly contributed to business growth.
 
