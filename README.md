@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**pramod265/pramod265** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Senior Software Engineer** at **Walmart**, passionate about building scalable systems and data solutions.
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Large-scale data engineering solutions
+- Cloud-native applications on GCP
+- Big data processing and analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python
+- **Databases:** SQL
+- **Cloud:** GCP (Google Cloud Platform)
+- **Frameworks & Tools:** Django, Apache Airflow, PySpark
+- **Focus Areas:** Software Engineering, Data Engineering, Big Data
+
+### 🌱 I'm continuously learning
+- Advanced distributed systems design
+- Cloud architecture best practices
+- Data optimization techniques
+
+### 💬 Ask me about
+- Python development and best practices
+- Data engineering workflows
+- GCP services and cloud solutions
+- Apache Airflow orchestration
+- PySpark and big data processing
+
+### 📫 How to reach me
+Feel free to connect with me here on GitHub!
+
+---
+
+**Senior Software Engineer** | Data Engineering | Cloud Computing | Python Developer
